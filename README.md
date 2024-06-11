@@ -1,23 +1,57 @@
-### Hi there 👋
+Name: Blockdepth.eth
 
-<!--
-**BlockDepth/BlockDepth** is a ✨ Vodcast Show✨ but this is the actual repository of the under development as well as our website.  `README.md` will appear on our GitHub profile to demonstrate that we can code.
+Located in: Silicon Hills
 
-Here are some ideas to get you started:
+Company: Blockdepth.eth
 
-- 🔭 I’m currently working on the development of my show's episodes, content,  and get over my imposter syndrome and showcase my knowledge on the technological and non-technological misconceptions in blockchain. To open the dialogue with institutions and individuals that are currently actively working on blockchain technology. 
+Title: Independent Journalist & Technologist
+Expertise: 
 
-My unique ability delivers clarity to complex topics dissolving negative connotations surrounding our ecosystem, more importantly is to dispel common myths to improve the mainstream perceptions & acceptance of our On-Chain Technology as the future. BlockDepth aims to blow the whistle on blockchain misconceptions, separating fact from fiction and highlighting the potential impact blockchain technology projects have to offer.
-
-- 🌱 I’m currently learning more about how to explain the confusions about blockchain and their relationships to Cryptocurrencies, to educate and to keep listeners up to date on the latest crypto and blockchain news and events 
-
-- 👯 I’m looking to create BlockDepth Vodcast as an exclusive showroom of on-chain knowledge, helping you separate fact from fiction, demonstrating the ongoing proof of work, highlighting the benefits and potential impacts it could have as this technology still in its early days. BlockDepth On-Chain is a group of individuals, organizations that have to come together to learn, teach educate and share the projects blockchain has to offer. 
-
-
-- 💬 Discuss and engage with me as part of our community, exchanging updates, and breaking developments in blockchain + decentralized systems. I’m looking to achieve this through the channel of technology, experience & community. Bridging the gap between the blockchain industry and others by identifying common questions and misperceptions, removing bias and creating a transparent environment Discussing blockchain solutions for the real world, voicing our crypto ecosystem community. 
+	Blockchain Specialist
+  Certified Scrum Master
+	AI Prompt Engineer
+	
 
 
-- 📫 How to reach me: https://Twitter.com/BlockDepth or Anonymous@BlockDepth.xyz
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact:
--->
+Fields of Interest:
+
+	Software and Mobile App Development
+	Decentralized Technologies
+	Artificial Intelligence
+	Blockchain
+	Non-Fungible Tokens
+	Notarial Service Industry
+
+Technical Background:
+
+	Tech Support Agent
+	Tech Business Analyst
+	Scrum Master
+	Software Developer
+	Director of Modernization
+	Chief Executive Officer
+ 
+
+Hobbies: Audiobles and hiking with my two dogs
+Actively_learning: Rust, Typescript, Tailwind, Solidity
+
+In a Blockchain eat Blockchain world! I’m BlockDepth.eth and I bring clarity of thought to complex ideas, 
+simply and without jargon for the crypto curious! BlockDepth.eth is a publication concept founded by a 
+revolutionary CEO and Tech Founder who brings clarity of thought to complex ideas around emerging 
+Decentralized Technologies such as Artificial Intelligence, Blockchain, and Web3.
+
+The term “Web3” is often limited and reductive as it is described as a trend. A new meaning to the term 
+should be adopted, as the New Iteration of the Internet emphasizes the Value of People. I suggest using 
+the more accurate Internet of People or IoP instead of Web3.
+
+I aim to bridge the gap between the Cryptoverse and Mainstream Culture by highlighting the benefits and 
+potential impacts of these technologies while making them accessible to those who are new to the space. 
+We achieve this by providing examples and real-world use cases to help readers understand how these 
+technologies work.
+
+One of my favorite pastimes is to dispel common myths and confusions about Blockchain and the Cryptoverse, 
+enabling readers to make informed decisions about the future of this transformative technology.
+
+The Cryptoverse refers to the decentralized ecosystem and its various components, including Ethereum 
+Mainnet, Blockchains, Cryptocurrencies, Smart Contracts, and NFTs. Our mission is to comprehensively 
+understand these emerging technologies shaping our world.
